@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pytho-gorin
 - 👀 I’m interested in [REDACTED}
-- 🌱 I’m currently learning bug boungty
+- 🌱 I’m currently learning bug bounty
 - 💞️ I’m looking to collaborate on no one, yet.....
 - 📫 Reach me out through my provided email account
 
